@@ -1,5 +1,7 @@
 package main
 
+// see. https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/
+
 import (
 	"fmt"
 	"sync"
